@@ -21,6 +21,10 @@ Our design principles are:
 
 
 
+https://github.com/Kyrake/Semantic-Navigation/assets/142335932/5fc01fe7-a1b5-47d1-bd7d-4fb35aac78b3
+
+
+
 ## Table of contents
    1. [Motivation](#Updates)
    1. [Citing Arena2D](#citing-arena)
