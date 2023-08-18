@@ -30,7 +30,7 @@ Our design principles are:
 - Easy experimentation: Make it easy for new users to test with benchmarks and run richful evaluations
 - Modular expandability: New functionalities can be build in easily, therefore we provide APIs.
 - Unlimited Scenarios: Randomized training environments for rich variation of environments.
-- Behaviour fidelity: Modelling human motion behaviour accordingly to real life.
+- Behaviour fidelity: Modelling human motion behaviour to emulate real warehouse settings.
 
 <p align="center">
   <img width="300" height="300" src="/img/dynamic1.gif">
