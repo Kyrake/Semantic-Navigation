@@ -29,12 +29,10 @@ https://github.com/Kyrake/Semantic-Navigation/assets/142335932/5fc01fe7-a1b5-47d
    1. [Motivation](#Updates)
    1. [Citing Arena2D](#citing-arena)
    1. [Installation](#installation)
-   1. [Docker Setup](#docker-setup)
    1. [Training and Testing Agent](#example)
    1. [Documentation](#documentation)
    1. [Simulation Environment](#simulation-environment)
    1. [Baselines](#baselines)
-   1. [Tutorials](#tutorials)
    1. [License](#license)
    1. [Acknowledgments](#acknowledgments)
    1. [References](#references-and-citation)
@@ -193,9 +191,6 @@ sudo make install
 Once you have compiled the application you can run the application from the `arena2d-sim/` folder with `./build/arena2d`.
 If you have installed the binary to your system folder you can run the simulator from anywhere by simply executing `arena2d`.
 
-## Docker Setup
-TBR
-
 ## Training and Testing Agents
 For training and testing preexisting or new agents please see [Agent-Doc](./arena2d-agents/README.md)
 
@@ -228,11 +223,6 @@ We compare the agents in terms of the different metrics: Success Rate, Collision
 | DDPG + LSTM| x           |x    |   ×      | ×    |
 
 
-
-
-## Tutorials
-We provide some basic tutorials, on how to setup a basic training workflow including agent setup, parameter settings and evaluation pipeline. 
-TBR
 
 ## License
 Arena2D is MIT licensed. See the [LICENSE file](/LICENSE) for details.
