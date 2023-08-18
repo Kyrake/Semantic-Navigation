@@ -29,7 +29,8 @@ Our design principles are:
 - Flexible development: Make it easy for new users to try out research ideas.
 - Easy experimentation: Make it easy for new users to test with benchmarks and run richful evaluations
 - Modular expandability: New functionalities can be build in easily, therefore we provide APIs.
-
+- Unlimited Scenarios: Randomized training environments for rich variation of environments.
+- Behaviour fidelity: Modelling human motion behaviour accordingly to real life.
 
 <p align="center">
   <img width="300" height="300" src="/img/dynamic1.gif">
@@ -37,9 +38,9 @@ Our design principles are:
 </p>
 
 
-
+<p align="center">
 https://github.com/Kyrake/Semantic-Navigation/assets/142335932/5fc01fe7-a1b5-47d1-bd7d-4fb35aac78b3
-
+</p>
 
 ````
 
