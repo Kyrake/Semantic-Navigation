@@ -1,7 +1,7 @@
 # Semantic Navigation for Autonomous Mobile Robots
 
 This project aims to train an autonomous agent to reach its goal in a warehouse setting, while being able to navigate in a dynamic and changing environment.
-To this purpose the [Arena2D](https://github.com/ignc-research/arena2D) was used as baseline simulation. It provides different scenarios, where an agent has to reach a goal, while navigating around static and moving onjects.  Our contribution extends this framework in order to emulate the presence of humans and their movements in this setting, aswell as providing more challenging warehouse setups.
+To this purpose the [Arena2D](https://github.com/ignc-research/arena2D) framework was used as baseline simulation. It provides different scenarios, where an agent has to reach a goal, while navigating around static and moving onjects.  Our contribution extends this framework in order to emulate the presence of humans and their movements in this setting, aswell as providing more challenging warehouse setups.
 Furthermore a DQN based training appraoch is implemented, which reward function takes the challenges of human-robot interaction into account.
 A detailed report can be found here: [Semantic Navigation](report/VIS2020.pdf)
 
