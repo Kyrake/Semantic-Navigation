@@ -38,11 +38,13 @@ Our design principles are:
 </p>
 
 
-<p align="center">
-https://github.com/Kyrake/Semantic-Navigation/assets/142335932/5fc01fe7-a1b5-47d1-bd7d-4fb35aac78b3
-</p>
 
-````
+https://github.com/Kyrake/Semantic-Navigation/assets/142335932/5fc01fe7-a1b5-47d1-bd7d-4fb35aac78b3
+
+
+
+
+
 
 ## Updates
 * 15/08/2020:** including a new class to simulate 2d humans
