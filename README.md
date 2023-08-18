@@ -8,7 +8,6 @@ A detailed report can be found here: [Semantic Navigation](report/VIS2020.pdf)
 
 ## Table of contents
    1. [Motivation](#Updates)
-   1. [Citing Arena2D](#citing-arena)
    1. [Installation](#installation)
    1. [Training and Testing Agent](#example)
    1. [Documentation](#documentation)
@@ -42,20 +41,6 @@ Our design principles are:
 https://github.com/Kyrake/Semantic-Navigation/assets/142335932/5fc01fe7-a1b5-47d1-bd7d-4fb35aac78b3
 
 
-
-
-
-
-## Citing Arena2D
-If you use the arena2d platform in your research, please cite the following [paper](https://arxiv.org/abs/2008.00516):
-
-````
-@article{kastner2020deep,
-  title={Deep-Reinforcement-Learning-Based Semantic Navigation of Mobile Robots in Dynamic Environments},
-  author={K{\"a}stner, Linh and Marx, Cornelius and Lambrecht, Jens},
-  journal={arXiv preprint arXiv:2008.00516},
-  year={2020}
-}
 ````
 
 ## Updates
