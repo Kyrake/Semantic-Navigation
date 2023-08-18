@@ -1,6 +1,24 @@
-# arena2D
-A plattform to ease DRL research.
+# Semantic Navigation for Autonomous Mobile Robots
 
+This project aims to train an autonomous agent to reach its goal in a warehouse setting, while being able to navigate in a dynamic and changing environment.
+To this purpose the Arena2D framework was used as baseline simulation. It provides different scenarios, where an agent has to reach a goal, while navigating around static and moving onjects.  Our contribution extends this framework in order to emulate the presence of humans and their movements in this setting, aswell as providing more challenging warehouse setups.
+Furthermore a DQN based training appraoch is implemented, which reward function takes the challenges of human-robot interaction into account.
+A detailed report can be found here:
+
+
+## Table of contents
+   1. [Motivation](#Updates)
+   1. [Citing Arena2D](#citing-arena)
+   1. [Installation](#installation)
+   1. [Training and Testing Agent](#example)
+   1. [Documentation](#documentation)
+   1. [Simulation Environment](#simulation-environment)
+   1. [Baselines](#baselines)
+   1. [License](#license)
+   1. [Acknowledgments](#acknowledgments)
+   1. [References](#references-and-citation)
+
+A plattform to ease DRL research.
 Arena2D is a research framework for fast development and training of reinforcement learning algorithms for autonomous navigation. 
 It aims to ease the overall pipeline and make training more efficient using simple 2D environments together with interfaces for additional modules, 
 which users can freely experiment with. We have incorporated novel ideas from state of the art research and arena2d provides APIs, which every user can 
@@ -25,17 +43,7 @@ https://github.com/Kyrake/Semantic-Navigation/assets/142335932/5fc01fe7-a1b5-47d
 
 
 
-## Table of contents
-   1. [Motivation](#Updates)
-   1. [Citing Arena2D](#citing-arena)
-   1. [Installation](#installation)
-   1. [Training and Testing Agent](#example)
-   1. [Documentation](#documentation)
-   1. [Simulation Environment](#simulation-environment)
-   1. [Baselines](#baselines)
-   1. [License](#license)
-   1. [Acknowledgments](#acknowledgments)
-   1. [References](#references-and-citation)
+
 
 
 ## Citing Arena2D
